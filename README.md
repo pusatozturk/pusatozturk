@@ -15,7 +15,7 @@ More projects will be added soon...
 ---
 
 📬 [Contact me](mailto:mehmetpusat.ozturk@agu.edu.tr)
-📫 mehmetpusat.ozturk@agu.edu.tr
+
 
 
 
