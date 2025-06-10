@@ -1,4 +1,21 @@
-## Hi there 👋
+## 👋 Hi there, I'm Pusat
+
+🎓 I'm a Computer Engineering student  
+💻 Currently learning Java, Object-Oriented Programming, and Data Structures  
+🚀 Improving my skills through hands-on coding and self-learning
+
+### 🧰 Tools & Technologies
+- Java
+- Git & GitHub
+- VS Code & IntelliJ IDEA
+
+### 📂 Projects
+More projects will be added soon...
+
+---
+
+📫 You can reach me at: pusat.ozturk@ogr.universite.edu.tr
+
 
 <!--
 **pusatozturk/pusatozturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
