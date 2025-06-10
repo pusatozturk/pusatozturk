@@ -14,7 +14,8 @@ More projects will be added soon...
 
 ---
 
-📫 You can reach me at: pusat.ozturk@ogr.universite.edu.tr
+📬 [Contact me](mailto:mehmetpusat.ozturk@agu.edu.tr)
+
 
 
 <!--
