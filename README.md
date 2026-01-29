@@ -11,7 +11,12 @@
 - Flutter
 
 ### 📂 Projects
-More projects will be added soon...
+
+**[Focus+]** (Mobile App - Flutter)
+* Developing a gamified Pomodoro focus application with a team of 3.
+* **My Key Contribution:** Successfully integrated **Google Gemini API** to create an interactive AI companion with a custom persona.
+* Utilized **AI-assisted development workflows (Cursor)** to implement the API connection and optimize prompt engineering.
+* Built responsive Frontend UI components.
 
 ---
 
