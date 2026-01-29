@@ -14,9 +14,9 @@
 
 **[Focus+]** (Mobile App - Flutter)
 * Developing a gamified Pomodoro focus application with a team of 3.
-* **My Key Contribution:** Successfully integrated **Google Gemini API** to create an interactive AI companion with a custom persona.
-* Utilized **AI-assisted development workflows (Cursor)** to implement the API connection and optimize prompt engineering.
-* Built responsive Frontend UI components.
+* **Lead Frontend Developer:** Built **90% of the User Interface**, ensuring a responsive and gamified experience.
+* **AI Integration:** Implemented the **initial Google Gemini API connection** and designed the custom AI persona.
+* **Tools:** Utilized **AI-assisted development (Cursor)** for rapid prototyping and prompt engineering.
 
 ---
 
