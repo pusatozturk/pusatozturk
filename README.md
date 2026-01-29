@@ -17,6 +17,9 @@
 * **Lead Frontend Developer:** Built **90% of the User Interface**, ensuring a responsive and gamified experience.
 * **AI Integration:** Implemented the **initial Google Gemini API connection** and designed the custom AI persona.
 * **Tools:** Utilized **AI-assisted development (Cursor)** for rapid prototyping and prompt engineering.
+* ### 🙌 Acknowledgments / Teşekkür
+Special thanks to my teammate for refactoring the backend logic and optimizing the Gemini Service structure.
+(Backend mantığını düzenlediği ve Gemini Servis yapısını optimize ettiği için takım arkadaşıma teşekkürler.)
 
 ---
 
