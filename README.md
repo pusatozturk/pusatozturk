@@ -1,13 +1,14 @@
 ## 👋 Hi there, I'm Pusat
 
 🎓 I'm a Computer Engineering student  
-💻 Currently learning Java, Object-Oriented Programming, and Data Structures  
+💻 Currently learning Java, Object-Oriented Programming, and Mobil Programming  
 🚀 Improving my skills through hands-on coding and self-learning
 
 ### 🧰 Tools & Technologies
 - Java
 - Git & GitHub
 - VS Code & IntelliJ IDEA
+- Flutter
 
 ### 📂 Projects
 More projects will be added soon...
